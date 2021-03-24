@@ -2,6 +2,14 @@
 
 My name is Shukri Jallad, I'm a university graduate with a BS in Mechanical Engineering, I aim to improve my skills and expand my opportunities through the aqcuisition of new and relevant knowledge. [This is a link to my GitHub page!](https://github.com/Shukri-jallad)
 
+**Table of Contents:**
+
+| assignment | Link |
+| --- | --- |
+| Read 01 | [The Coder's Computer!](read1.md)|
+| Read 02 | [Learning Markdown, Revision and the cloud!](read2.md)|
+| Read 03 | [Structure web pages with HTML!](read3.md)|
+
 
 _**Objectives:**_
 

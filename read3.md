@@ -1,0 +1,3 @@
+_**Structure web pages with HTML!**_
+
+> I understood high-level process to mean process which guide and determine the objectives of the design, of those the first should be creating a Wireframe; which is a rough draft of the outline. Secondly we should focus on sustaining a Visual Heirarchy, those are visual features that are most coherent or make the design easier to read, we should also focus on Grouping and Similarity; that is to not distract the viewer and make things in orderly batches, and finally consider Design Navigation, a webiste with too many links might deter viewrs off.

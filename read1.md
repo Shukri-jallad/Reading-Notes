@@ -1,0 +1,3 @@
+_**The Coder's Computer!**_
+
+> I have learned in today's lecture about the difference between a GUI and a CMD, the benefits of using a CMD, the order and protocol for using CMD commands and entering lines, how to open a terminal. Also I learned about files and their classifications as well as what paths are and how files are sorted in a GUI. We touched on the utility and practicality of Linux as opposed to Windows.
