@@ -1,6 +1,6 @@
 # About Me
 
-My name is Shukri Jallad, I'm a university graduate with a BS in Mechanical Engineering, I aim to improve my skills and expand my opportunities through the aqcuisition of new and relevant knowledge. [This is a link to my GitHub page!](https://github.com/Shukri-jallad)
+My name is Shukri Jallad, I'm a university graduate with a BS in Mechanical Engineering, I aim to improve my skills and expand my opportunities through the acquisition of new and relevant knowledge. [This is a link to my GitHub page!](https://github.com/Shukri-jallad)
 
 **Table of Contents:**
 
