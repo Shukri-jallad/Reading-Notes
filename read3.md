@@ -1,3 +1,7 @@
 _**Structure web pages with HTML!**_
 
 > I understood high-level process to mean process which guide and determine the objectives of the design, of those the first should be creating a Wireframe; which is a rough draft of the outline. Secondly we should focus on sustaining a Visual Heirarchy, those are visual features that are most coherent or make the design easier to read, we should also focus on Grouping and Similarity; that is to not distract the viewer and make things in orderly batches, and finally consider Design Navigation, a webiste with too many links might deter viewrs off.
+
+> I also read about the different tags in HTML, how to order them, and what their uses are, footer for example is used for listing copyrights, you can also use features such as color, font, and listings. HTML stands for Hyperactive Text Markup Language, therefore it can link by Hyper Text, and it uses symbols to translate into different features rather than an editor affecting the code.
+
+> Structurally, HTML is very similar to other coding languages, it is devided into three main regions, the head, body, and the footer, the main body itself is also devided into a header, main body, and footer. HTML is also self closing, meaning that writing the first part of a command prompts the editor to close it automatically and even suggest commands as with an autocorrect.
