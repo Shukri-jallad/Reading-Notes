@@ -2,7 +2,7 @@ _**Learning Markdown, Revision and the cloud!**_
 
 > Markdown is a useful tool, it can assist novice developers and experts alike in creating content and sharing it on a dedicated webpage for free, it doesn't have as robust a library as a professional html5 utility such as repl.it but it is much more convenient and more accessible to people of various degrees of interest and knowledge in web development.
 
-Markdown does not include an editor for its source code, it converts symbols into text features.
+> Markdown does not include an editor for its source code, it converts symbols into text features.
 
 > I learned about the evolution of VCS systems from the Localized VCS to the CVCS, all the way up to the DVCS which we rely upon today. In order:
 
