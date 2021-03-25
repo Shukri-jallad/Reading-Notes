@@ -1,0 +1,3 @@
+**Programming with Javascript**
+
+> I learned about Javascript, it is a utility to introduce dynamic elements into the webpage, these elements can include a prompt, a confirm window, or simply a message, on the developer's side Javascript can be used to add notes and console commands to check the status of the actions on the page. Javascript can be incorporated directly into the HTML code or via an external file that is linked to the index main file.

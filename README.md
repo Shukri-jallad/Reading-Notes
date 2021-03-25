@@ -6,9 +6,10 @@ My name is Shukri Jallad, I'm a university graduate with a BS in Mechanical Engi
 
 | assignment | Link |
 | --- | --- |
-| Read 01 | [The Coder's Computer!](read1.md)|
-| Read 02 | [Learning Markdown, Revision and the cloud!](read2.md)|
-| Read 03 | [Structure web pages with HTML!](read3.md)|
+| Read 01 | [The Coder's Computer](read1.md)|
+| Read 02 | [Learning Markdown, Revision and the cloud](read2.md)|
+| Read 03 | [Structure web pages with HTML](read3.md)|
+| Read 04 | [Programming with JavaScript](read4.md)|
 
 
 _**Objectives:**_
