@@ -1,0 +1,3 @@
+**Operators and loops**
+
+> I learned in this lab about loops, about qualitative operators, and about improving code to be more readable for the developers, looping is essential in case one wants to create a barrier or check before accessing a page, it is essentually how passwords are introduced and it allows for greater interaction with the user as the prompt actually responds differently to different inputs, qualitative operators are required for the code to assess inputs and make decisions, and multiple ways to write a code don't make them all recommended, one must mind readability and efficiency.
