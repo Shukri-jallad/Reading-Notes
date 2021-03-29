@@ -11,6 +11,7 @@ My name is Shukri Jallad, I'm a university graduate with a BS in Mechanical Engi
 | Read 03 | [Structure web pages with HTML](read3.md)|
 | Read 04 | [Programming with JavaScript](read4.md)|
 | Read 05 | [Operators and loops](read5.md)|
+| Read 06 | [Design web pages with CSS](read6.md)|
 
 
 _**Objectives:**_
