@@ -4,7 +4,7 @@ My name is Shukri Jallad, I'm a university graduate with a BS in Mechanical Engi
 
 **Table of Contents:**
 
-*amman-code-102d26: Intro to Software Development* 
+### Code 102 Reading Notes:
 
 | assignment | Link |
 | --- | --- |
@@ -15,7 +15,7 @@ My name is Shukri Jallad, I'm a university graduate with a BS in Mechanical Engi
 | Read 05 | [Operators and loops](read5.md)|
 | Read 06 | [Design web pages with CSS](read6.md)|
 
-*201: Foundations of Software Development*
+### Code 201 Reading Notes:
 
 | assignment | Link |
 | --- | --- |
