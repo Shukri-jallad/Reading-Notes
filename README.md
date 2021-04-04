@@ -19,4 +19,4 @@ My name is Shukri Jallad, I'm a university graduate with a BS in Mechanical Engi
 
 | assignment | Link |
 | --- | --- |
-| Read 01 | Place Holder|
+| Read 01 | [First reading file](readme1.md)|
