@@ -19,4 +19,6 @@ My name is Shukri Jallad, I'm a university graduate with a BS in Mechanical Engi
 
 | assignment | Link |
 | --- | --- |
-| Read 01 | [First reading file](readme1.md)|
+| Read 01 | [Introductory HTML and JavaScript](readme1.md)|
+| Read 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](readme2.md)|
+| Read 03 | [HTML Lists, CSS Boxes, JS Control Flow](readme3.md)

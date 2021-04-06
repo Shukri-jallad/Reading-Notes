@@ -1,0 +1,7 @@
+# HTML Text, CSS Introduction, and Basic JavaScript Instructions
+
+> There are many different kinds of tags in HTML, they activate according to the browser, it is quite the luxury to be able to write so elegantly on an editor using tags, that's what Mark ups are for, think of your usual editor, but you can communicate with it via tags, tags are usually the semantic kind, that is if they're not structural to begin with, and browser are usually (if not always) built in with the funcionality to allow the execution of this editing system.
+
+> CSS files are where styling incorporates color, images, even management of geometric location of different pieces of text, the limit on what you can do with CSS might even exceed that of an offline editor, it is customary to include a file external to the html code, and from which information can be aggrigated through the use of a link in a tag, preferrably in the head section where the meta data goes.
+
+> In order to get anything working in Javascript you need to mind the basic instructions, such as declaring a variable, the appropriate use of parantheses, and so on. Javascript code will be responsible for handling logical, numerical, and user interactive (user input) code.
