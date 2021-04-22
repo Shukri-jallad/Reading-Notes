@@ -1,0 +1,3 @@
+# More CSS Layout
+
+> CSS layouts are what we could roughly call the wireframe, it is basically how pages are visually strcutered, but the difference here is that the wireframe is by hand, and the layout is how its translated into the machine. To that end, it is important to note that when viewing an HTML page it's either flowing vertically and/or horizontally depending on if the elements viewed are block elements or inline elements, with that in mind, CSS can help to change that, and affect it in a way to restructure the flow, and create a new layout.

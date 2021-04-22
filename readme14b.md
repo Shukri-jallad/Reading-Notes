@@ -1,0 +1,3 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+
+> What google learned is this: "We had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. The ‘‘who’’ part of the equation didn’t seem to matter." What this implied is that it doesn't matter who we choose for each task, when composing teams, what matters is that we appreciate and expect member's input, when such input is constrained, we effectively lose a member and teams begin to operate with efficiency that is less than that of a single individual perhaps. Successeful teams work together, and resolve drama in whichever meands suit them.

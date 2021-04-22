@@ -1,0 +1,3 @@
+# CSS Transforms, Transitions, and Animations
+
+> It is not terribly difficult to make transitions and animations in CSS, however it is a method of profound aesethetic uniqueness, CSS is capable of rendering elements in different forms, from shrop edged boxes, to round edged circles, and draw a transition between them the functions eithet by a scroll bar or over time, in all cases, dynamically displayed elements serve to guide the user through an easy experience.

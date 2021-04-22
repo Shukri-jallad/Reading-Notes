@@ -1,0 +1,3 @@
+# Chart.js, Canvas
+
+> Not all built in functions need be stored on your machine, especially those that are actively being updated and improved. To that end, we have what is known as Content Delivery Networks, or cdn for short. If the functions you're trying to import are charts or are graphic in nature, a Canvas tag can help smoothen the experience, that is you can use other tags, but HTML has specialized tags for that matter, that make the process faster. Once you link a source, also called library, such as Char.js, you can use their functions through the link, inside the Canvas tag. Which in this case, it's just a chart builder.

@@ -1,0 +1,3 @@
+# Audio, Video, Images
+
+> It is always important to consider the size of an image, and the purpose for which it is clipped onto the page. Images can be figures, gifs, or jpeg's that are meant to give aesthetic beauty to the page. Depending on how much of the data of an image you want rendered, you would choose an extension to represent the image. Images, and other media files, can be imported from other webistes through links, or they can be stored in a file that the editor can access and link to your active page. Videos and Audio are about the same. It is important to note what tag do these media files take, in order to set them in the view that you require for your page.

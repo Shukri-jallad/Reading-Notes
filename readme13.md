@@ -1,0 +1,3 @@
+# Local Storage
+
+> Local storage is one of the most important functions, it could be used to transfer data between webpages, but it is also the only tool pretty much to create pages with stored dynamic input. That is to say, all input becomes permanently part of the page's code. This happens via a means that feeds the input into the Storage utility, which creates an array that would then be converted using JSON, and then retrieved also using JSON, and then fed into the Constructor function or however the method is. This array is a storage utility, up to 5MB, and by feeding input into the Constructor over and again, it maintains user input as permanent to the page, until its memory is cleared or deleted.

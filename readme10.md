@@ -1,0 +1,3 @@
+# JS Debugging
+
+> There are many good practices when it comes to debugging, most importantly, console.log is the best way to check for errors where you suspect them. Debugging can be an impossible task if not done in a structurally sound way, and while there are many types of errors, a clearly written code, well organized, and well read and revised, will make it easy to test for errors. Errors can be tested for on the browser or within the editor itself.
