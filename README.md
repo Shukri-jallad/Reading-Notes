@@ -4,6 +4,12 @@ My name is Shukri Jallad, I'm a university graduate with a BS in Mechanical Engi
 
 **Table of Contents:**
 
+### Code 301 Reading Notes:
+
+|assignment| Link|
+| --- | --- |
+| Read 01 | Text |
+
 ### Code 201 Reading Notes:
 
 | assignment | Link |
